@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a209d749d214d4f478d21c8f5ea74831, type: 3}
+  m_Name: sample_VCCTextures
+  m_EditorClassIdentifier: 
+  m_crosshair: {fileID: 2800000, guid: a9b769fbf66d0d148a735bd276ad0484, type: 3}
+  m_background: {fileID: 2800000, guid: a6be1b1b81b20f54696e96a34f78c2df, type: 3}
+  m_red: {fileID: 2800000, guid: 0e792fed4ae6aa348b7e734425e56e09, type: 3}
+  m_blue: {fileID: 2800000, guid: fd4eb9797efac924e8420560de5976a3, type: 3}
+  m_green: {fileID: 2800000, guid: 953347470d5bc4741b231760813017e8, type: 3}
+  m_lightDark: {fileID: 2800000, guid: c133b5628bb6dbb46a0953cf245b115d, type: 3}
